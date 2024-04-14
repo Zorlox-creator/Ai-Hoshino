@@ -1,20 +1,20 @@
-<h1 align="center">‧ ⭐ Ai Hoshino - MD ⭐ ‧
+<h1 align="center">‧ ⭐ capi - MD ⭐ ‧
 </p>
 <p>
-        <img src= "https://telegra.ph/file/89fa6a3c8e9cedda6f5ca.jpg">
+        <img src= "https://areajugones.sport.es/wp-content/uploads/2021/10/the-eminence-in-shadow.jpg">
     </p>
     <p align="center">
-        <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+        <a href="priv"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
     <p>
-        <a href="https://github.com/NakanoTeam"><img title="Author"    src="https://img.shields.io/badge/Author-おDaniel-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href=""><img title="Author"    src="https://img.shields.io/badge/Author-おDaniel-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
-        <a href="https://github.com/NakanoTeamollowers"><img title="Followers" src="https://img.shields.io/github/followers/NakanoTeam?color=blue&style=flat-square"></a>
-        <a href="https://github.com/NakanoTeam/Ai-Hoshino/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NakanoTeam/Ai-Hoshino?color=red&style=flat-square"></a>
-        <a href="https://github.com/NakanoTeam/Ai-Hoshino/network/members"><img title="Forks" src="http://img.shields.io/github/forks/NakanoTeam/Ai-Hoshino?color=red&style=flat-square"></a>
+        <a href="priv"><img title="Followers" src="https://img.shields.io/github/followers/capiTeam?color=blue&style=flat-square"></a>
+        <a href="https://github.com/capiteam/Ai-capi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/capiTeam/Ai-capi?color=red&style=flat-square"></a>
+        <a href="https://github.com/capiTeam/Ai-capi/network/members"><img title="Forks" src="http://img.shields.io/github/forks/capiTeam/Ai-capi?color=red&style=flat-square"></a>
         <a href="#"><img src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"</a>
-        <img src="https://img.shields.io/github/repo-size/NakanoTeam/Ai-Hoshino" /> <br>
+        <img src="https://img.shields.io/github/repo-size/capiTeam/Ai-capi" /> <br>
    </p>
    <p>
 </h1>
@@ -28,11 +28,11 @@
 > WhatsApp
 > 2 celulares o PC
 ```
-- Descarga termux dando clic [aqui](https://f-droid.org/repo/com.termux_118.apk)
+- Descarga termux dando clic [aqui](actualizando)
 
 ---------
 
-## <img src="https://i.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif" alt="Instalacion" width="40" height="40"> Instalación en [termux](https://f-droid.org/repo/com.termux_118.apk)
+## <img src="https://i.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif" alt="Instalacion" width="40" height="40"> Instalación en [termux](actualizando)
 
 ```bash
 cd && termux-setup-storage
@@ -74,16 +74,14 @@ npm start
 
 > Bot en creación pronto se agregaran más cosas 
 
-- [x] Interacción con voz y texto
+
 - [x] Configuración de grupo
 - [x] antidelete, antilink, antispam, etc
 - [x] Bienvenida personalizada
 - [x] Juegos, tictactoe, mate, etc
-- [x] Chatbot (simsimi)
+- [x] ChatIA 
 - [x] Crear sticker de image/video/gif/url
-- [x] SubBot (Jadibot)
-- [ ] Juego RPG
-- [x] Descarga de música y video de YT
+- [x] SubBot (capibot)
 - [ ] Otros
 
 ---------
@@ -101,25 +99,17 @@ npm start
 
 - Si quieres probar el bot antes de instalar
 
-* <a href="https://chat.whatsapp.com/CqdWTXmS702JD31SQzr0Ph"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/FLRaO8ohrpOLaRvtThXnlm"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
----------
-
-## Repo Stats 🔭
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=NakanoTeam&repo=Ai-Hoshino&theme=chartreuse-dark)
-
----------
+--------
 
 ## <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/octocat-anime.gif" alt="Github" width="44" height="44"> Github Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=NakanoTeam&show_icons=true&theme=chartreuse-dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=capiTeam&show_icons=true&theme=chartreuse-dark)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=NakanoTeam&layout=compact&theme=chartreuse-dark)
 
 ---------
 <div align="center">
   <h1 align="center">Editor y Propietario de la Bot</h1>
 
-<a href="https://github.com/NakanoTeam"><img src="https://github.com/NakanoTeam.png" width="300" height="300" alt="おDaniel"/></a>
-
-`© Ai Hoshino - MD / Nakano - Team _ By おDaniel`
+<a href="https://github.com/Zorlox-creator"><img src="https://github.com/capiTeam.png" width="300" height="300" alt="capi"/></a>

@@ -10,7 +10,7 @@ import moment from "moment-timezone"
 //⊱ ━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━ ⊰  
 
 global.owner = [
-  ['5218132588591', 'おDanịel.xyz⁩', true],
+  ['56994529615', 'Capi-lingo⁩', true],
   ['5218139760662'],
   ['5218261009198'],
   ['5218261275256'],
@@ -25,11 +25,11 @@ global.prems = []
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
 global.packname = ''
-global.author = '{\n "bot": {\n   "name": "Ai Hoshino",\n     "author": "おDaniel",\n   "status_bot": "active"\n }\n}'
+global.author = '{\n "bot": {\n   "name": "Capi-bot",\n     "author": "おDaniel",\n   "status_bot": "active"\n }\n}'
 global.desc = 'Simple WhatsApp Bot Multi Device'
-global.namebot = '© Ai Hoshino - MD / Nakano - Team'
-global.wait = '*↻ Espera soy lenta. . .*'
-global.gcname = 'Ai Hoshino - MD'
+global.namebot = '© Capi bot - MD / capi - Team'
+global.wait = '*↻ mas despacio velocista. . .*'
+global.gcname = 'capi bot - MD'
 global.wm = ''
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
@@ -54,7 +54,7 @@ global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = ['GataDios'] // ['BrunoSobrino_2']
+global.lolkeysapi = ['GataDios'] // ['capibot_2']
 global.skizo = ['konekocyz']
 global.lann = 'p8ADYJib'
 global.kiicode = 'usU5RWzmQq'
@@ -102,17 +102,17 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
-global.group = 'https://chat.whatsapp.com/CqdWTXmS702JD31SQzr0Ph'
+global.group = 'https://chat.whatsapp.com/FLRaO8oahrpOLaRvtThXnlm'
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
-global.adanime = `🌸 | Anime By Ai Hoshino - MD 🈴` 
-global.addescargas = `📤 | Descargas By Ai Hoshino - MD 🌸`
-global.adimagen = `🌅 | Imágenes By Ai Hoshino - MD 🌿` 
+global.adanime = `🌸 | Anime By capi bot - MD 🈴` 
+global.addescargas = `📤 | Descargas By capi bot - MD 🌸`
+global.adimagen = `🌅 | Imágenes By capi bot - MD 🌿` 
 global.adyoutube = `🍁 | Descargas de YouTube 📤` 
-global.adsticker = `🏞️ | Stickers By Ai Hoshino - MD 🌺` 
-global.adsearch  = `🔎 | Busquedas By Ai Hoshino - MD 🐢` 
-global.adnsfw = `🔞 | Nsfw By Ai Hoshino - MD ⭐`
+global.adsticker = `🏞️ | Stickers By capi bot - MD 🌺` 
+global.adsearch  = `🔎 | Busquedas By capi bot- MD 🐢` 
+global.adnsfw = `🔞 | Nsfw By capi bot - MD ⭐`
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
